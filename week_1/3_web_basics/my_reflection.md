@@ -7,3 +7,15 @@
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 <!-- Add your reflection here. Remove the comment markers -->
+
+<p>
+	I finally learned what DNS is, and why the service I use to purchase and process domains is called DNSimple. I also learned the difference between top-level and second-level domains.
+</p>
+
+<p>
+	When setting up an HTML website, it's important to remember to submit terse yet descriptive commit messages.
+</p>
+
+<p>
+	Initially, I was sort of shocked -- shocked because I was met with a blank document. For some reason I had two copies of index.html (one on the desktop, and one where it actually belonged). I had been adding all of my changes to the desktop one and was wondering why I couldn't see the changes live.
+</p>
