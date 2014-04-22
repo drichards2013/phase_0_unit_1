@@ -17,5 +17,9 @@
 </p>
 
 <p>
-	Initially, I was sort of shocked -- shocked because I was met with a blank document. For some reason I had two copies of index.html (one on the desktop, and one where it actually belonged). I had been adding all of my changes to the desktop one and was wondering why I couldn't see the changes live.
+	Initially, I was sort of shocked -- shocked because I was met with a blank document. For some reason I had two copies of index.html (one on the desktop, and one where it actually belonged). I had been adding all of my changes to the desktop one and was wondering why I couldn't see the changes live. When I finally saw the page working, it was very relieving. 
+</p>
+
+<p>
+	The number one "aha" moment for me was realizing the difference between forking and cloning. Forking is simply copying over someone else's repository. Cloning is the action of downloading it to your own local machine. It was also great to use the GitHub app! Holy cow! Didn't even know such a thing existed.
 </p>
