@@ -1,0 +1,78 @@
+body {
+	font-family: arial;
+	padding: 40px;
+	border-style: solid;
+	border-color: black;
+}
+
+.nav li {
+	display: inline;
+}
+
+a:link {
+	color: #666;
+}
+
+a:visited {
+	color: #666
+}
+
+a:hover {
+	color: pink;
+}
+
+a:active {
+	color: purple;
+}
+
+.content {
+	margin: auto;
+	width: 500px;
+	float: left;
+	height: auto;
+}
+
+#sidebar {
+	float: right;
+
+}
+
+#footer {
+	clear: both;
+}
+
+
+.contentspan {
+	color: teal;
+}
+
+.headerspan {
+	color: red;
+}
+
+.footerspan {
+	color: blue;
+}
+
+.sidebarspan {
+	color: orange;
+}
+
+
+.caption {
+	position: absolute;
+	bottom: 20px;
+	right: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

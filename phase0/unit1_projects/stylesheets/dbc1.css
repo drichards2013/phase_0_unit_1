@@ -1,0 +1,15 @@
+#top {
+	color: black;
+}
+
+body h2 {
+	color: red;
+}
+
+body p {
+	color: teal;
+}
+
+li {
+	color: blue;
+}
