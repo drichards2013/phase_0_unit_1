@@ -1,0 +1,11 @@
+#sites {
+	border: 1px;
+	border-style: solid;
+	border-color: black;
+	width: 270px;
+	padding: 5px;
+}
+
+.image {
+	height: 300px;
+}

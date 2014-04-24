@@ -1,0 +1,29 @@
+body {
+	font-family: arial;
+	background: #E6F7F9;
+	color: #333333;
+}
+
+h1 {
+	
+}
+
+.sitename {
+	color: #96C34C;
+
+}
+
+li {
+	color: #01628C;
+	margin-bottom: 5px;
+	line-height: 1.1em;
+}
+
+.content {
+	float: left;
+
+}
+
+.sidebar {
+	float: right;
+}
