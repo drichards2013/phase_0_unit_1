@@ -33,3 +33,8 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is. - I found this by opening up the Developer Tools and going to the network tab. I hit record, refreshed the page, and sorted by size. Found the largest image. It's 1.6 KB. Here's the link : http://s7.addthis.com/static/btn/v2/lg-share-en.gif
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated? - The lowest hanging fruit to optimize the website is the CSS. 
+
+
+Here are the requested images:
+
+http://imgur.com/HwhxT2j,VUI0h8g
