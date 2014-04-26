@@ -5,8 +5,12 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
+    *The elements tab allows us to do this. On the left is HTML; on the right is CSS.
   * Javascript Debugging
+    *This can be done in the console. Since I'm coming from a Ruby background, it seems most like IRB.
   * Performance Optimization 
+    *The PageSpeed tab (the one we downloaded from the Google Extension Store) can do this.
+    *The network also allows us to do this. It shows us the different things being loaded on the page, when they are loaded, and how long they took.
 
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
