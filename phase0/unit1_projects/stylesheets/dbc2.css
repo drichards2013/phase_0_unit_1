@@ -3,12 +3,6 @@ body {
 	padding: 40px;
 	border-style: solid;
 	border-color: black;
-	width: 100%;
-}
-
-p {
-	width: 80%;
-	text-align: center;
 }
 
 .nav li {
@@ -32,11 +26,10 @@ a:active {
 }
 
 .content {
-	margin: 0 auto;
+	margin: auto;
 	width: 500px;
-	
+	float: left;
 	height: auto;
-	text-align: left;
 }
 
 #sidebar {
@@ -71,22 +64,3 @@ a:active {
 	bottom: 20px;
 	right: 500px;
 }
-
-.nav {
-	text-align: center;
-}
-
-.footer {
-	text-align: center;
-}
-
-.footer:hover {
-	color: green;
-}
-
-
-h1 { font-size: 2em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.17em; }
-h5 { font-size: .83em; }
-h6 { font-size: .75em; }
