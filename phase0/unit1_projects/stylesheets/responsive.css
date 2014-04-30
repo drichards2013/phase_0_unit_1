@@ -16,12 +16,12 @@ float: left;
 
 
 .container {
-	width: 100%;
+	width: 80%;
 	margin: auto;
 }
 
 .container p {
-	width: 80%;
+	width: 50%;
 	margin: auto;
 }
 
