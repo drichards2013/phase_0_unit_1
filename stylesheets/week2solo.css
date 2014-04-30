@@ -68,16 +68,54 @@ table {
 body {
 	font-family: sans-serif;
 	color: #243036;
+	background: #D3FEC8;
+}
+
+nav a {
+	color: #09252E ;
+}
+
+a {
+	color: #D3FEC8 ;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFA54F;
 }
 
 .subheading {
 	text-align: center;
+	background: #09252E;
+	color: #D3FEC8;
+	padding-top: 2px;
 }
+
+.highlight {
+	color: #2C382E;
+}
+
+.float-left img {
+	float: left;
+}
+
+
 
 p {
 	margin-left: 15px;
+	margin-bottom: 5px;
+
 }
 
+p a {
+	color: #09252E;
+}
+
+
+#links a:link {
+	display: inline;
+	
+}
 
 #intro {
 	font-family: 'mathleteskinny';
@@ -106,7 +144,7 @@ p {
 }
 
 #introimages img {
-	width: 10%;
+	width: 15%;
 	display: inline;
 }
 
