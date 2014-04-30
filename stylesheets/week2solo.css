@@ -67,6 +67,7 @@ table {
 
 body {
 	font-family: sans-serif;
+	color: #243036;
 }
 
 .subheading {
@@ -105,7 +106,7 @@ p {
 }
 
 #introimages img {
-	width: 20%;
+	width: 10%;
 	display: inline;
 }
 
@@ -113,4 +114,7 @@ p {
 	text-align: center;
 }
 
-
+#photogallery img {
+	width: 33.3%;
+	display: inline;
+}
