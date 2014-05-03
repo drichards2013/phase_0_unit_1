@@ -148,23 +148,25 @@ this.attackXY(49,63);
 this.attackXY(47,53);
 this.moveXY(50, 39);
 this.attackXY(69,57);
-this.attackXY(57,44);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+this.attackXY(57,44); 
  
  
 // Reflection:
 // Write your reflection here.
+
+// 'this' refers to the current object. If a Person class exists,
+// then 'this' is an instance of that class.
+
+// The '()' accept arguments in JavaScript. For example, in the game, the move function took two
+// arguments -- the x position and the y posotion. In between the parentheses is where we specify these
+// additional parameters.
+
+// Semicolons are used to explicitly indicate where a particular statement ends.
+
+
+
+
+
+
+
+
