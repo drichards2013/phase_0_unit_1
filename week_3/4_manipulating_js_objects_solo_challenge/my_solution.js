@@ -16,9 +16,15 @@ var terah = {
 1. Define a variable adam and use object literal notation to assign this variable 
    the value of a JavaScript Object object with no properties.
 
+   //make adam variable
+
 2. Give adam a name property with the value "Adam".
 
+  //give name property "Adam"
+
 3. Add a spouse property to terah and assign it the value of adam.
+
+  // spouse: adam
 
 4. Change the value of the terah weight property to 125.
 
@@ -47,7 +53,8 @@ var terah = {
 // Write your code below.
 
 
-
+var adam = {name: 'Adam'};
+terah[spouse] = adam;
 
 
 
