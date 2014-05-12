@@ -9,8 +9,7 @@ var terah = {
   age: 32,
   height: 66,
   weight: 130,
-  hairColor: "brown",
-  eyeColor: "brown"
+  hairColor: "brown"
 }
 /* Pseudocode Section - write pseudocode for each challenge below.
 1. Define a variable adam and use object literal notation to assign this variable 
@@ -28,18 +27,30 @@ var terah = {
 
 4. Change the value of the terah weight property to 125.
 
+// weight = 125
+
 5. Remove the eyeColor property from terah.
 
+// removed eyeColor property
+
 6. Add a spouse property to adam and assign it the value of terah.
+
+// adam's spouse = terah
 
 7. Add a children property to terah and and use object literal notation to assign 
    this variable the value of a JavaScript Object object with no properties
 
+// terah
+
 8. Add a carson property to the value of the terah children property and assign it 
   the value of an object with the property name with a value of "Carson".
 
+// 
+
 9. Add a carter property to the value of the terah children property and assign it 
    the value of an object with the property name with a value of "Carter".
+
+
 
 10. Add a colton property to the value of the terah children property and assign it 
     the value of an object with the property name with a value of "Colton".
@@ -54,7 +65,12 @@ var terah = {
 
 
 var adam = {name: 'Adam'};
-terah[spouse] = adam;
+terah.spouse = adam;
+terah.weight = 125;
+adam.spouse = terah;
+terah.children = {carson: {name: 'Carson'}, carter: {name: 'Carter'}, colton: {name: 'Colton'}};
+adam.children = terah.children;
+
 
 
 
@@ -62,9 +78,9 @@ terah[spouse] = adam;
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
+// I feel very happy about completing this solo challenge. I felt myself becoming frustrated while pseudocoding
+// I felt like I was running out of things to pseudocode. Maybe I'm missing the point. Am I supposed to 
+// outline everything my program is doing? I enjoyed bringing tests from red to green.
 // 
 // 
 // 
