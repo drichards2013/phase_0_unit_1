@@ -1,0 +1,12 @@
+/* include your css here */
+
+html { background-color: pink; }
+        nav li {display: inline;  }
+        a:link {text-decoration: none;}
+        
+        html { padding: 10px; text-align: center; }
+        .big-text { font-size: 300%;  }
+        .center { text-align; center; }
+        .biodescription { position:relative; left: 30px; }
+        .bio  {display:inline-block; width: 10em; margin-right: 4em; text-align;center;}
+        .banner {width:100%; background-color: green;}
